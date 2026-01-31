@@ -101,18 +101,5 @@ The frontend of the project is built using HTML, CSS and JavaScript. The fronten
 
 ---
 
-## How to run the project locally?🤔
-- Clone the repository
-```bash
-git clone https://github.com/abhikalparya/FarmEasy.git
-```
-- Install the dependencies
-```bash
-pip install -r requirements.txt
-```
-- Run the app
-```bash
-python app.py
-```
 
 
