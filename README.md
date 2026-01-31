@@ -96,7 +96,6 @@ The frontend of the project is built using HTML, CSS and JavaScript. The fronten
 ![home-page](https://user-images.githubusercontent.com/81465377/213855553-b2ae624c-f119-494b-bc3c-298629a0fe3d.jpg)
 ![about-page](https://user-images.githubusercontent.com/81465377/213855752-e3494c73-3b32-49af-8f45-48f125d4d2c9.jpg)
 ![recommend-page](https://user-images.githubusercontent.com/81465377/213855965-f7358239-ee57-426f-b976-8b797ec3c615.jpg)
-![footer](https://user-images.githubusercontent.com/81465377/213856165-318753d7-8ef5-48f2-8ad1-6ae85ab6afbd.jpg)
 ![form](https://user-images.githubusercontent.com/81465377/213856444-3389c0e8-0f05-4652-9530-55bd8f2dbb5f.jpg)
 ![result](https://user-images.githubusercontent.com/81465377/213856637-f5398f09-ac09-4b63-946a-21d670b5b660.jpg)
 
@@ -115,4 +114,5 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+
 
